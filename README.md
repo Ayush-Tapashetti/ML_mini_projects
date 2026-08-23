@@ -1,2 +1,2 @@
-# Building_NN_Math
-Building neural network projects via  just numpy and Pandas!!
+# Building_Neural_Networks
+Building multiple neural network projects via just numpy and Pandas!!
